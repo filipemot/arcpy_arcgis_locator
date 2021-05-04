@@ -112,7 +112,7 @@ Métodos:
     
 -   **retorna_campos_utilizados_locators -** Cria uma lista de campos a serem utilizados pelo locator
     
--   **remova_arquivo** - CDeleta um arquivo
+-   **remova_arquivo** - Deleta um arquivo
 
 
 **Referências**
