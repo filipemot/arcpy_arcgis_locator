@@ -113,14 +113,8 @@ Métodos:
 -   **retorna_campos_utilizados_locators -** Cria uma lista de campos a serem utilizados pelo locator
     
 -   **remova_arquivo** - CDeleta um arquivo
-    
 
-  
 
-**Github**
-
-[https://github.com/filipemot/arcpy_arcgis_locator](https://github.com/filipemot/arcpy_arcgis_locator)
-
-Referências
+**Referências**
 
 ¹ Introduction to locators ([https://pro.arcgis.com/en/pro-app/latest/help/data/geocoding/about-locators.htm](https://pro.arcgis.com/en/pro-app/latest/help/data/geocoding/about-locators.htm). Acessado em 04/05/2021
