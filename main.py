@@ -1,11 +1,11 @@
-
+import arcpy
 from locator_service import cria_composite_locator, cria_locator_endereco, cria_locator_poi
 
 
 def main():
     cria_locator_endereco(
         "D:\\Demos_Pessoais\\arcpy_arcgis_locator\\data\\Locator.gdb",
-        "OSM_ruas",
+        "OSM_v_atual_ruas",
         "desc_nome",
         "desc_codigo_pais",
         "desc_codigo_idioma",
@@ -17,7 +17,7 @@ def main():
 
     cria_locator_poi(
         "D:\\Demos_Pessoais\\arcpy_arcgis_locator\\data\\Locator.gdb",
-        "OSM_pois",
+        "OSM_v_atual_pois",
         "name",
         "desc_codigo_pais",
         "desc_codigo_idioma",
