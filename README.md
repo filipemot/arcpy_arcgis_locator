@@ -30,7 +30,7 @@ Para esse tipo de Locator precisamos ter na base os seguintes campos:
 
   
 
-Exemplo:
+**Exemplo:**
 
     from locator_service import cria_locator_endereco
     def main():
@@ -49,7 +49,7 @@ Exemplo:
 
   
 
-Tipo POI
+**Tipo POI**
 
 Esse tipo de Locator é utilizado para Geocoding para buscar pontos de Endereços.
 
